@@ -2,6 +2,7 @@ import React from 'react';
 import promotion1 from '../../img/promotion1.png';
 import './promotionsStyle.css'
 
+//promociones de web
 export default function promotions() {
     return (
       <div>
